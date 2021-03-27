@@ -6,7 +6,7 @@ This repository contains scripts we are developing to deploy a Hyperledger Testb
 
 **CONTRIBUTOR**: Sahil Kalra (sahilkalra1991@gmail.com)
 
-**CONTRIBUTOR**: Luca A. Müller
+**CONTRIBUTOR**: [Luca A. Müller](https://github.com/lucaired/)
 
 **CONTRIBUTOR**: Pezhman Nasirifard
 
